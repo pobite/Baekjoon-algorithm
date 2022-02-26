@@ -1,0 +1,4 @@
+﻿  10828.c
+C:\Users\HOME\Documents\GitHub\Baekjoon-algorithm\스택\스택\10828.c(12,13): warning C4013: 'isFull'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\HOME\Documents\GitHub\Baekjoon-algorithm\스택\스택\10828.c(23,14): warning C4013: 'isEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  스택.vcxproj -> C:\Users\HOME\Documents\GitHub\Baekjoon-algorithm\스택\Debug\스택.exe
